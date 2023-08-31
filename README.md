@@ -1,1 +1,1 @@
-# ds_practice
+# basic project data science
